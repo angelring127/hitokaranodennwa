@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HitokaraDennwaTwo</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5555878466921311/8680680589</string>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>ポイント履歴</item>
+        <item>よくある質問</item>
+        <item>合わせ</item>
+    </string-array>
+</resources>

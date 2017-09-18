@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "3415521509",
+    "firebase_url": "https://hitokaradennwatwo.firebaseio.com",
+    "project_id": "hitokaradennwatwo",
+    "storage_bucket": "hitokaradennwatwo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3415521509:android:5ca93746d5180e24",
+        "android_client_info": {
+          "package_name": "kpu.ac.kr.hitokaradennwatwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3415521509-srqhutkpd23nduh1qamc4tdvvou6vg13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kpu.ac.kr.hitokaradennwatwo",
+            "certificate_hash": "654f2ebeac3aca0016f6cecb47d4b3ea6fa9dcd7"
+          }
+        },
+        {
+          "client_id": "3415521509-dmvktu0bs6kib9d20buj521t6a60j4jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9u2u963fArYxzhOpZRnY0JbdVqqwf898"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3415521509-dmvktu0bs6kib9d20buj521t6a60j4jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
